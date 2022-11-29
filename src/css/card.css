@@ -2,5 +2,45 @@
   width: 350px;
   background-color: rgb(167, 150, 240) !important;
 }
-.button-access {
+
+.img {
+  border-radius: 50%;
+  text-align: center;
+}
+.avatar {
+  margin: 10px;
+}
+.avatar > img {
+  width: 250px;
+  height: auto;
+}
+.card {
+  background-color: white !important;
+}
+.linkedin {
+  background-color: #0a66c2;
+  color: white !important;
+}
+.port {
+  background-color: rgb(151, 18, 18);
+  color: white !important;
+}
+.github {
+  background-color: #212121;
+  color: white !important;
+}
+.sobre {
+  background-color: orange;
+  color: white !important;
+}
+.whatsapp {
+  background-color: #25d366;
+  color: white !important;
+}
+.instagram {
+  background-color: #e1306c;
+  color: white !important;
+}
+.infos {
+  text-align: center;
 }

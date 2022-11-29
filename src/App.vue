@@ -7,7 +7,7 @@
 </template>
 <style scoped>
 .app {
-  background-color: grey;
+  background-color: rgb(255, 255, 255);
 }
 </style>
 <script>
